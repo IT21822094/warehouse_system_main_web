@@ -19,8 +19,8 @@ const documents: DownloadItem[] = [
   { title: 'Final Report', submittedOn: '2025/08/29', type: 'Group', link: '/pdfs/R25-62.pdf' },
   { title: 'Final Report ( P A S Tharana )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21822094_RP_report.pdf' },
   { title: 'Final Report ( A A A S Abeydeera )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21822780_RP_report.pdf' },
-  { title: 'Project Proposal ( P D M P Palihena )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21079672_RP_report.pdf' },
-  { title: 'Project Proposal ( V S D Amangilihewa )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21318184_RP_report.pdf' },
+  { title: 'Final Report ( P D M P Palihena )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21079672_RP_report.pdf' },
+  { title: 'Final Report ( V S D Amangilihewa )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21318184_RP_report.pdf' },
 ]
 
 const presentations: DownloadItem[] = [
