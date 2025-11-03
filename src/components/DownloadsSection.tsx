@@ -13,21 +13,25 @@ const documents: DownloadItem[] = [
   { title: 'Topic Assessment', submittedOn: '2024/01/07', type: 'Group', link: '/pdfs/TAF.pdf' },
   { title: 'Project Proposal ( P A S Tharana )', submittedOn: '2025/01/22', type: 'Individual', link: '/pdfs/IT21822094_updated_individual report0.pdf' },
   { title: 'Project Proposal ( A A A S Abeydeera  )', submittedOn: '2025/01/22', type: 'Individual', link: '/pdfs/IT21822780_individual report.pdf' },
-  { title: 'Check List 1', submittedOn: '2025/04/30', type: 'Group', link: '/pdfs/README.md' },
-  { title: 'Check List 2', submittedOn: 'Yet to be submitted, link will be updated soon.', type: 'Group', link: '' },
+  { title: 'Check List 1', submittedOn: '2025/04/30', type: 'Group', link: '/pdfs/checklist1.md' },
+  { title: 'Check List 2', submittedOn: '2025/09/15', type: 'Group', link: '/pdfs/checklist2.xslx' },
   { title: 'Research Paper', submittedOn: '2025/06/23.', type: 'Group',link: '/pdfs/warehouse-management.docx' },
   { title: 'Final Report', submittedOn: '2025/08/29', type: 'Group', link: '/pdfs/R25-62.pdf' },
   { title: 'Final Report ( P A S Tharana )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21822094_RP_report.pdf' },
   { title: 'Final Report ( A A A S Abeydeera )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21822780_RP_report.pdf' },
   { title: 'Final Report ( P D M P Palihena )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21079672_RP_report.pdf' },
   { title: 'Final Report ( V S D Amangilihewa )', submittedOn: '2025/08/29', type: 'Individual', link: '/pdfs/IT21318184_RP_report.pdf' },
+  { title: 'Log Book ( P A S Tharana )', submittedOn: '2025/10/29', type: 'Individual', link: '/pdfs/IT21822094_RP_logbook.pdf' },
+  { title: 'Log Book ( A A A S Abeydeera )', submittedOn: '2025/10/29', type: 'Individual', link: '/pdfs/IT21822780_RP_logbook.pdf' },
+  { title: 'Log Book ( P D M P Palihena )', submittedOn: '2025/10/29', type: 'Individual', link: '/pdfs/IT21079672_RP_logbook.pdf' },
+  { title: 'Log Book ( V S D Amangilihewa )', submittedOn: '2025/10/29', type: 'Individual', link: '/pdfs/IT21318184_RP_logbook.pdf' },
 ]
 
 const presentations: DownloadItem[] = [
   { title: 'Project Proposal', submittedOn: '2025/01/22', type: 'Group', link: '/pdfs/updated Proposal Presentation R25-062.pptx' },
   { title: 'Progress Presentation I', submittedOn: '2025/04/08', type: 'Group', link: '/pdfs/pp1 presentation.pdf' },
   { title: 'Progress Presentation II', submittedOn: '2025/09/25', type: 'Group', link: '/pdfs/Proposal Presentation (1).pdf' },
-  { title: 'Final Presentation', submittedOn: 'Yet to be submitted, link will be updated soon.', type: 'Group', link: '' },
+  { title: 'Final Presentation', submittedOn: '2025/10/27', type: 'Group', link: '/pdfs/final_presentation_1.pdf' },
 ]
 
 const DownloadsSection: React.FC = () => {
